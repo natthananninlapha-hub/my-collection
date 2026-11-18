@@ -1,7 +1,6 @@
-// วางค่า config จาก Firebase Console (Project settings > Your apps > Web app)
 export const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyDti4J4n2Oh8Tf7FisFx93oxtjIqXPB9sk",
+  authDomain: "my-collection-bcfe6.firebaseapp.com",
+  projectId: "my-collection-bcfe6",
+  appId: "1:278802931808:web:a642d5d2ac8f5628666305"
 };
